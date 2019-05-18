@@ -6,13 +6,11 @@ If any Questions, suggestions, or corrections please post as issues.
 
 I'm using `PyTorch 0.4` in `Python 3.7`.
 
-# Objective
+**Objective**
 
 **To build a model that can detect and localize specific objects in images.**
 
-# Concepts
-
-* **Object Detection**. 
+**Concepts** 
 
 * **Single-Shot Detection**. Earlier architectures for object detection consisted of two distinct stages – a region proposal network that performs object localization and a classifier for detecting the types of objects in the proposed regions. 
 
